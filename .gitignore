@@ -1,0 +1,11 @@
+# Unity-generated files
+Library/
+Logs/
+Temp/
+obj/
+.vs/
+.vscode/
+UserSettings/
+.DS_Store
+.idea/
+*.sln
